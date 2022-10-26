@@ -29,7 +29,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [Order summary component with flexbox](https://www.frontendmentor.io/solutions/order-summary-component-with-flexbox-aZ482URAE3)
 - Live Site URL: [orsuca](https://orsuca.netlify.app/)
 
 
